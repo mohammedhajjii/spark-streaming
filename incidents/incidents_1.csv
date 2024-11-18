@@ -1,0 +1,13 @@
+Id,title,description,service,date
+10,Staff Injury,Patient was misdiagnosed leading to incorrect treatment.,Radiology,2020-01-04
+26,Patient Fall,Patient experienced severe side effects from prescribed drug.,Laboratory,2023-03-21
+9,Privacy Violation,MRI machine failure caused a delay in diagnostics.,Pediatrics,2024-01-12
+22,Incorrect Diagnosis,Nurse reported a sprain while lifting a patient.,Cardiology,2021-12-22
+1,Medication Error,Patient experienced severe side effects from prescribed drug.,Cardiology,2024-05-24
+13,Patient Fall,Patient slipped and fell in the hallway.,Cardiology,2020-04-07
+18,Incorrect Diagnosis,Patient received the wrong dosage of medication.,Cardiology,2023-12-17
+23,Staff Injury,Several patients reported similar infections post-surgery.,Outpatient Clinic,2021-08-11
+12,Privacy Violation,Patient experienced severe side effects from prescribed drug.,Surgery,2021-11-27
+14,Lab Test Error,Patient experienced severe side effects from prescribed drug.,Emergency Room,2022-01-23
+16,Adverse Drug Reaction,Nurse reported a sprain while lifting a patient.,Intensive Care Unit,2023-02-21
+2,Patient Fall,Surgery performed on the wrong limb due to mislabeling.,Pharmacy,2024-06-05

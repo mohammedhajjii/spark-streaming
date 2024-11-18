@@ -1,0 +1,12 @@
+Id,title,description,service,date
+5,Lab Test Error,Unauthorized access to sensitive patient data detected.,Outpatient Clinic,2020-03-19
+6,Staff Injury,Patient records were shared without consent.,Pediatrics,2020-01-16
+3,Infection Outbreak,Critical treatment was delayed due to staffing shortages.,Radiology,2023-12-30
+17,Wrong-Site Surgery,Surgery performed on the wrong limb due to mislabeling.,Orthopedics,2021-01-01
+24,Staff Injury,MRI machine failure caused a delay in diagnostics.,Radiology,2023-10-29
+4,Adverse Drug Reaction,Patient slipped and fell in the hallway.,Laboratory,2024-08-01
+27,Infection Outbreak,Patient was misdiagnosed leading to incorrect treatment.,Outpatient Clinic,2024-07-25
+25,Wrong-Site Surgery,Patient was misdiagnosed leading to incorrect treatment.,Emergency Room,2022-08-17
+19,Medication Error,Surgery performed on the wrong limb due to mislabeling.,Pharmacy,2020-12-02
+28,Adverse Drug Reaction,Surgery performed on the wrong limb due to mislabeling.,Cardiology,2021-06-10
+21,Staff Injury,Patient records were shared without consent.,Outpatient Clinic,2021-05-21

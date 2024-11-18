@@ -1,0 +1,6 @@
+Id,title,description,service,date
+8,Infection Outbreak,Patient was misdiagnosed leading to incorrect treatment.,Pharmacy,2024-08-16
+11,Patient Fall,Unauthorized access to sensitive patient data detected.,Laboratory,2024-06-22
+15,Wrong-Site Surgery,Patient was misdiagnosed leading to incorrect treatment.,Orthopedics,2020-11-09
+20,Infection Outbreak,Lab results were mismatched between patients.,Emergency Room,2023-12-17
+7,Delayed Treatment,Lab results were mismatched between patients.,Surgery,2022-07-15
